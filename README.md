@@ -1,6 +1,9 @@
 # Validación de fecha
 Este programa valida las fechas ingresadas, al igual que identifica si es verano o invierno e identifica el signo zodiacal.
 
+### Importante
+Ya que para nuestro programa utilizamos un condicional <b>Switch</b> para los 12 meses del año, tomarle una imagen al flujograma sería complicado para mostrar el resultado, por lo que incluimos el archivo del pseudocódigo con el que se puede crear el flujograma en PseInt.
+
 ## ENTRADA:
     - Día
     - Mes
